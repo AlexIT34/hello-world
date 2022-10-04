@@ -1,0 +1,15 @@
+C:\Users\Go\Desktop\leson№1 C#\example006giry\bin\Debug\net6.0\example006giry.exe
+C:\Users\Go\Desktop\leson№1 C#\example006giry\bin\Debug\net6.0\example006giry.deps.json
+C:\Users\Go\Desktop\leson№1 C#\example006giry\bin\Debug\net6.0\example006giry.runtimeconfig.json
+C:\Users\Go\Desktop\leson№1 C#\example006giry\bin\Debug\net6.0\example006giry.dll
+C:\Users\Go\Desktop\leson№1 C#\example006giry\bin\Debug\net6.0\example006giry.pdb
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.csproj.AssemblyReference.cache
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.AssemblyInfoInputs.cache
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.AssemblyInfo.cs
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.csproj.CoreCompileInputs.cache
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.dll
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\refint\example006giry.dll
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.pdb
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\example006giry.genruntimeconfig.cache
+C:\Users\Go\Desktop\leson№1 C#\example006giry\obj\Debug\net6.0\ref\example006giry.dll
